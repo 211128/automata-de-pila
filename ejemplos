@@ -1,0 +1,29 @@
+var int hola; +
+va int hola; -
+
+------------------
+ 
+repite i desde 0 hasta 12 {contenido} +
+
+repit i desde 0 hasta 12 {contenido}  -
+
+-------------------------------
+
+si opc < 8  {contenido} sino {contenido}
+
+si opc = 8  {contenido} sino {contenido}
+
+
+--------------------------------------------
+
+funn concatenar(int num2, int num){return num 123; + num 123;}
+
+fu123 concatenar(int num, int num){return num 123; + num 123;}
+
+------------------------------------------
+
+Funn Inn(){var int opc; resultado = concatenar(12, 12); }
+
+Funn Onn(){var int opc; resultado = concatenar(12, 12); }
+
+
